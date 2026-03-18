@@ -26,7 +26,8 @@ This project detects phishing websites using Machine Learning techniques based o
 
 ## 📸 Output
 
-(Add your screenshot here)
+(## 📸 Output
+![Output](Screenshot(76).png)
 
 ## 📚 Future Scope
 
